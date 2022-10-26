@@ -1,0 +1,15 @@
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.csproj.AssemblyReference.cache
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.GeneratedMSBuildEditorConfig.editorconfig
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.AssemblyInfoInputs.cache
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.AssemblyInfo.cs
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.csproj.CoreCompileInputs.cache
+/home/crimson/Desktop/CSharp/Lab_05/bin/Debug/net6.0/Lab_05
+/home/crimson/Desktop/CSharp/Lab_05/bin/Debug/net6.0/Lab_05.deps.json
+/home/crimson/Desktop/CSharp/Lab_05/bin/Debug/net6.0/Lab_05.runtimeconfig.json
+/home/crimson/Desktop/CSharp/Lab_05/bin/Debug/net6.0/Lab_05.dll
+/home/crimson/Desktop/CSharp/Lab_05/bin/Debug/net6.0/Lab_05.pdb
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.dll
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/refint/Lab_05.dll
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.pdb
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/Lab_05.genruntimeconfig.cache
+/home/crimson/Desktop/CSharp/Lab_05/obj/Debug/net6.0/ref/Lab_05.dll
